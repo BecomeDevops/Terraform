@@ -1,0 +1,1 @@
+aws ec2 describe-images --owners amazon --image-ids ami-0cbd40f694b804622
